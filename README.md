@@ -4,7 +4,7 @@
 
 I'm Pedro. I'm a junior developer 👨‍💻 curious about this digital world and software developments.
 
-- 🔭 I’m currently learning Projects, C#, Angular and React
+- 🔭 I’m currently learning Projects, C# and Angular. 
 
 <!--
 **mauricio-viana/mauricio-viana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
